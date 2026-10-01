@@ -248,4 +248,5 @@ Historical measurements will eventually be displayed as graphs.
 
 ### Version 0.1 — Prototype
 
-- 
+- <img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/babe45be-b277-4cd8-9aff-e63aaf8400a1" />
+
