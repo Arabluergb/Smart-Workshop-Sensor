@@ -19,7 +19,7 @@
 | [Breadboard Jumper Kabel Set](https://www.amazon.de/Breadboard-65er-Pack-Steckbrücken-Drahtbrücken-Elektronik-DIY-Projekte/dp/B09154YGJM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A14UZZ4PMMG7FU%3Fsource%3Dps-sl-shoppingads-lpcontext&psc=1&utm_source=chatgpt.com) | to wire the station | 1 | $7.13 | $7.13 | [Amazon](https://www.amazon.de/Breadboard-65er-Pack-Steckbrücken-Drahtbrücken-Elektronik-DIY-Projekte/dp/B09154YGJM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A14UZZ4PMMG7FU%3Fsource%3Dps-sl-shoppingads-lpcontext&psc=1&utm_source=chatgpt.com) |
 | [Push-button, LED, resistor, breadboard, wires – Mini Kit](https://funduinoshop.com/bauelemente/steckbretter-und-platinen/steckbretter/taster-led-widerstand-breadboard-kabel-mini-kit?trc_gcmp_id=24251932953&trc_gag_id=&trc_gad_id=&gad_source=1&gad_campaignid=24251954151&gclid=CjwKCAjwifjVBhBKEiwAYx4K9JZKVziamC85agGSwgjKAcQNQSSk0cbmcPtZbIw3VAuBnAdhWrenURoCXooQAvD_BwE) | To switch pages in the menu and wire the other things | 1 | $3.82 | $3.82 | [Funduino](https://funduinoshop.com/bauelemente/steckbretter-und-platinen/steckbretter/taster-led-widerstand-breadboard-kabel-mini-kit?trc_gcmp_id=24251932953&trc_gag_id=&trc_gad_id=&gad_source=1&gad_campaignid=24251954151&gclid=CjwKCAjwifjVBhBKEiwAYx4K9JZKVziamC85agGSwgjKAcQNQSSk0cbmcPtZbIw3VAuBnAdhWrenURoCXooQAvD_BwE) |
 | **Parts subtotal** | — | — | — | **$53.11** | — |
-| **Tax & shipping** | — | — | — | **$10.00** | — |
-| **Total** | — | — | — | **$63.11** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$53.11** | — |
 
-$1.89 left of the tier's funding.
+$11.89 left of the tier's funding.
